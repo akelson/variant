@@ -1,12 +1,5 @@
 #include <iostream>
 
-enum CheckId {
-  CHECK_01,
-  CHECK_02,
-  CHECK_03,
-  CHECK_04
-};
-
 class Variant {
 public:
   template <typename T>
